@@ -40,6 +40,6 @@ El archivo fue dividido en secciones para su lectura:
 Este repositorio es distribuido najo la licencia MIT. Consulte el archivo **LICENSE** para más detalles.
 
 ## Autor 
-Juan Alberto Andrade Nieto
-Geógrafo, interesado en la tecnología y la ciencia de datos.
-[LinkedIn](https://www.linkedin.com/in/juan-andrade-geo/)
+* Juan Alberto Andrade Nieto
+* Geógrafo, interesado en la tecnología y la ciencia de datos.
+* [LinkedIn](https://www.linkedin.com/in/juan-andrade-geo/)
